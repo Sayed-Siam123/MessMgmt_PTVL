@@ -1,0 +1,4 @@
+#Wed Sep 23 06:50:30 BDT 2020
+base.0=/Users/sayed/WorkOnline/MessMgmt_PTVL/build/app/intermediates/dex/release/mergeDexRelease/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
